@@ -1,0 +1,5 @@
+ 1. primitive data type are passed to function by value ,
+     but if the function changes the value of the parameter , this changes is not reflected globally
+
+ 2. if you pass an obj as a parameter and the function changes the objects properties , that change
+     is visible outside the function
